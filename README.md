@@ -1,5 +1,3 @@
-![PyTechnicalIndicators How-To Guides Banner](./assets/how-to-banner.png)
-
 # PyTechnicalIndicators How-To Guides
 
 Welcome to the How-To Guides for PyTechnicalIndicators — Python bindings backed by the RustTI engine for fast, configurable technical analysis.
